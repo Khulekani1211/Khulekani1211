@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=2EA043&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Khulekani1211&label=Profile%20Views&color=2EA043&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Behind-the-scenes systems for a Grade 10–12 Mathematics tutoring organization 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true)" />
 </p>
 
 ---
