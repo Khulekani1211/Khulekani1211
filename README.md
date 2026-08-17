@@ -84,7 +84,7 @@ Behind-the-scenes systems for a Grade 10–12 Mathematics tutoring organization 
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=Khulekani1211&theme=github-dark-blue&hide_border=true)" />
 </p>
 
 ---
